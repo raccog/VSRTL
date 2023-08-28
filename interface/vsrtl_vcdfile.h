@@ -6,6 +6,8 @@
 #include <iostream>
 #include <map>
 
+#include <cstdint>
+
 namespace vsrtl {
 
 struct Defer {

@@ -2,7 +2,7 @@
 #define VSRTL_VSRTLVIEW_H
 
 #include <QGraphicsView>
-#include <QOpenGLWidget>
+#include <QtOpenGLWidgets/QOpenGLWidget>
 #include "vsrtl_componentgraphic.h"
 
 namespace vsrtl {
