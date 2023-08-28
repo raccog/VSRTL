@@ -4,3 +4,15 @@
 *.o
 Makefile
 build*/
+
+# Custom added
+*_autogen/
+CMakeFiles/
+*.a
+cmake_install.cmake
+CMakeCache.txt
+VSRTL*
+tst_*
+!tst_*.cpp
+.qt/
+.qtc_clangd/
